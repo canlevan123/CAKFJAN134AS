@@ -1,11 +1,15 @@
 fileFormatVersion: 2
 guid: 37414fbdf783fee4dae9329b42c4c323
-timeCreated: 1470017312
+timeCreated: 1470038040
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: enemy_0
     21300002: enemy_1
+    21300004: enemy_2
+    21300006: enemy_3
+    21300008: enemy_4
+    21300010: enemy_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -46,7 +50,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
@@ -67,6 +71,50 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 30
+        y: 738
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 738
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 738
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 738
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_5
+      rect:
+        serializedVersion: 2
+        x: 150
         y: 738
         width: 30
         height: 30
