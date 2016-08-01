@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 37414fbdf783fee4dae9329b42c4c323
-timeCreated: 1470038040
+timeCreated: 1470048066
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -10,6 +10,12 @@ TextureImporter:
     21300006: enemy_3
     21300008: enemy_4
     21300010: enemy_5
+    21300012: enemy_6
+    21300014: enemy_7
+    21300016: enemy_8
+    21300018: enemy_9
+    21300020: enemy_10
+    21300022: enemy_11
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -116,6 +122,72 @@ TextureImporter:
         serializedVersion: 2
         x: 150
         y: 738
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 708
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 708
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 708
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 708
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: enemy_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 708
         width: 30
         height: 30
       alignment: 0
